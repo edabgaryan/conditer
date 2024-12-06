@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edabgaryan/conditer/static/css/main.6e6977fb.css",
+    "main.js": "/edabgaryan/conditer/static/js/main.d3d4443f.js",
+    "index.html": "/edabgaryan/conditer/index.html",
+    "main.6e6977fb.css.map": "/edabgaryan/conditer/static/css/main.6e6977fb.css.map",
+    "main.d3d4443f.js.map": "/edabgaryan/conditer/static/js/main.d3d4443f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e6977fb.css",
+    "static/js/main.d3d4443f.js"
+  ]
+}
