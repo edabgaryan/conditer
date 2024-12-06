@@ -1,0 +1,10 @@
+.advant__list:before {
+  display: inline-block;
+  content: '';
+  position: absolute;
+  top: 7px;
+  left: -97px;
+  width: 125px;
+  height: 2px;
+  background: linear-gradient(to right, #020f0b 0%, #29773ee8 100%);
+}

@@ -1,0 +1,24 @@
+.gallery__title {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.gallery__title:after {
+  display: block;
+  content: '';
+  height: 2px;
+  background: linear-gradient(to right, #020f0b 0%, #5b3118   100%);
+  margin-top: 0.625em;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: rgba(19, 61, 22, 0.473);
+}
+
+@media (max-width: 768px) {
+  .gallery__title {
+    margin-top: 15px;
+    font-size: 20px;
+  }
+}

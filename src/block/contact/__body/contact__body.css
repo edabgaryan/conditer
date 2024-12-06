@@ -1,0 +1,12 @@
+.contact__body {
+  position: relative;
+  background-image: url('https://img.freepik.com/free-photo/young-woman-arranging-her-cake-shop_23-2149210457.jpg?t=st=1733413320~exp=1733416920~hmac=78798d9df1b0e9dc5b6223d3ea0af8d1a98bcfa5f7e4fea9a7db1bc120ccc3f4&w=1380');
+  background-position: center;
+  background-repeat: no-repeat;
+  max-height: 200px;
+}
+@media screen and (max-width: 768px) {
+  .contact__body {
+    background-position: left;
+  }
+}

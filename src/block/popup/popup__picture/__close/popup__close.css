@@ -1,0 +1,16 @@
+.popup__close {
+  position: fixed;
+  cursor: pointer;
+  opacity: 0.8;
+  color: #fff;
+  z-index: 9999;
+  top: 40px;
+  right: 40px;
+  font-size: 40px;
+}
+@media (max-width: 768px) {
+  .popup__close {
+    top: 6%;
+    left: 90%;
+  }
+}

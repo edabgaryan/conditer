@@ -1,0 +1,11 @@
+.about__photo {
+    display: block;
+    max-width: 100%;
+    background-color: black;
+    z-index: -1;
+}
+@media screen and (max-width: 1024px) {
+.about__photo {
+    display: none;
+    }
+}

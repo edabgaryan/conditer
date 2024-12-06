@@ -1,0 +1,9 @@
+.advant__photo {
+    margin-right: 50px;
+    background-color: black;
+}
+@media screen and (max-width: 1024px) {
+    .advant__photo {
+        display: none;
+        }
+}

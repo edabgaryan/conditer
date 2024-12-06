@@ -1,0 +1,11 @@
+.map__caption {
+  text-align: center;
+  background: linear-gradient(to right, #020f0b 0%, #5b3118  100%);
+  padding: 20px 0;
+  border-radius: 10px;
+}
+@media screen and (max-width: 768px) {
+  .map__caption {
+    padding: 0;
+  }
+}

@@ -1,0 +1,11 @@
+.service__wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+@media screen and (max-width: 769px) {
+  .service__wrap {
+    flex-direction: column;
+    padding: 20px;
+  }
+}

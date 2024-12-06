@@ -1,0 +1,21 @@
+.header__logo {
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 200px;
+  z-index: 2;
+  background-image: url(../../../images/logo-black.png);
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+  .header__logo {
+    width: 200px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .header__logo {
+    width: 150px;
+  }
+}

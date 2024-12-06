@@ -1,0 +1,14 @@
+.f-info__item {
+  color: #fff;
+  opacity: 0.5;
+  font-size: 13px;
+  padding-right: 15px;
+}
+.f-info__item:hover {
+  color: #ffffff8a;
+}
+@media screen and (max-width: 650px) {
+  .f-info__item {
+    margin-bottom: 1em;
+  }
+}

@@ -1,0 +1,10 @@
+.advant {
+  margin-top: 3em;
+  margin-bottom: 4em;
+}
+@media screen and (max-width: 470px) {
+  .advant {
+    margin-top: 0;
+    margin-bottom: 50px;
+  }
+}

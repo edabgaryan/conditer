@@ -1,0 +1,18 @@
+.go-to__home {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.go-to__home:hover {
+  color: rgba(255, 255, 255, 0.541);
+}
+
+@media screen and (max-width: 1024px) {
+  .go-to__home {
+    position: absolute;
+    font-size: 13px;
+    bottom: 40px;
+  }
+}

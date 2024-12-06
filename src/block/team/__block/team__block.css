@@ -1,0 +1,12 @@
+.team__block {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-items: flex-start;
+}
+@media screen and (max-width: 1024px) {
+  .team__block {
+    flex-direction: column;
+    align-items: center;
+  }
+}

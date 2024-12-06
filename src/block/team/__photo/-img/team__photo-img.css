@@ -1,0 +1,11 @@
+.tema__photo-img {
+  object-fit: cover;
+  width: 550px;
+  height: 388px;
+  opacity: 0.45;
+}
+@media screen and (max-width: 784px) {
+  .tema__photo-img {
+    max-height: 300px;
+  }
+}

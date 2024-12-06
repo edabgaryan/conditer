@@ -1,0 +1,25 @@
+.dgreen__btn {
+  display: block;
+  max-width: 17.78571em;
+  width: 250px;
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffffd1;
+  padding: 1.4em;
+  margin-left: -20%;
+  background: linear-gradient(to right, #000000 0%, #5b3118   100%);
+}
+.dgreen__btn:hover {
+  color: white;
+  background-size: 300% auto;
+  background-position: left center;
+}
+
+@media screen and (max-width: 1024px) {
+  .dgreen__btn {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 180px;
+  }
+}

@@ -1,0 +1,13 @@
+.slider__paragraph {
+  color: white;
+  line-height: 20px;
+}
+@media screen and (max-width: 470px) {
+  .slider__paragraph {
+    font-size: 10px;
+  }
+}
+.slider__p-p {
+  color: #FFB92B;
+  font-size: 20px;
+}

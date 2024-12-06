@@ -1,0 +1,10 @@
+.p-page__tabs {
+    display: flex;
+    padding-bottom: 20px;
+}
+  @media  (max-width: 768px) {
+    .p-page__tabs {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+}

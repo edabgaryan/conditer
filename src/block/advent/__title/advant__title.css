@@ -1,0 +1,10 @@
+.advant__title {
+  font-size: 2.6em;
+  color: #100f0f;
+  text-transform: uppercase;
+}
+@media screen and (max-width: 470px) {
+  .advant__title {
+    font-size: 25px;
+  }
+}
